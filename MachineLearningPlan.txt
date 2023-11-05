@@ -1,0 +1,12 @@
+Parameters:
+	Interior Features
+	Exterior Features
+	Age
+	Defects
+	Renovation
+	Location
+	Market Trends
+
+Output:
+	Arbitrary Quality Rating
+

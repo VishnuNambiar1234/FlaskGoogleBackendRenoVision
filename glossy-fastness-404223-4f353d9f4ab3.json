@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "glossy-fastness-404223",
+  "private_key_id": "4f353d9f4ab31cb69113991ffff103485da9672f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDTgPFy+Gq7paf2\nUZcArMu4Uk/Zjrp4d5UyWRy9ZwdHTRrj0PhkrBSAWi/yna9u0CFxa5ANdRN9N2rq\nWzxoDWXM1k7fbt7bNqAZvwaBbGIFwgXLxorCOfC0QkKtxnMw574QyG6yuPopFey3\nS9KtBzJmCoH2DiHLqex1msvLPZ70KzjNozmad0gDaRW3lqt7hB7t435txtCXSdeb\nqPJaMj+j4dKEbrREJ3/iFx5QmV08XZ4IIOUeeAzZwMCC14/DMNRvIYZh+EtmJ78r\nJ8sW6yusLvKk5VQrJX3sDYUYf2v8+y1MJk9gln6ZW3iN4AcSuPmAdbaqXEwULtPI\nZ5+sJlrdAgMBAAECggEARoz7fXNZ/xAKEAM1UJdTOT/TvOl8UBTroqjRCmjkp6cT\nsiyRvtsb15i957srutYYYcIUgjiscJdcxaH7a2YUsBhIpQVRt2PoUc5DuEZUCEGp\nN0kaHiG/phF4Nok9AXI8F1MUge9sGupiVN4o/2ioKhuVMGOUaGBdLPmew0Ph0uZA\nHwMtM+3nwzn9xB+R8uniL9OV4HJWoGfg+iRCR7zIaq1KqcWNXi4/KRWDJ/Uc0sxS\nt1RTmYqhHmaNIcx7eQGRLTWN/j99TPgWBFp7xtfr4ChtuOnZIrlbkV1Ckr5mWjXK\nfjIBwK/99ZVbh+ZiHffZw9N7Br30Zy3WLyVBLQMf7QKBgQD/DSM2iA/n1vQgHWtX\n6swWQWsaFeOSmzAigtcgJAnQpXfgJoZWWysApRyzZPW1p2e+4m6jXINND+B2oV5J\ni+oc8KyZDkVuVw+rqKlsfXqCop144om1NJdAwEJulmEk8F/MWFixdl5qkXmA7dCT\nAaaueD0Ttz39TDMpIMzp4dzOTwKBgQDUSlbP/XblP6EtgY/V5VcAL+XyHsMVq0UH\n/onwJKx0Sw+/5/tfAJZR+UvTQRMpxFO8Xx+V5ed2P0m47QlO9TS6P59E8jRQpX9N\nmYKkbKPKfjAm/Ic6zzn6w9Gxe6eLjzL5Au1XPxxCMq4oy0LHl66tHy6vODKumv01\nSDTohCyFEwKBgQCIrVGhd2iOpPJOA3XytzCG/KeYYwKBHgi9dcAyyR05YnLK+9oh\njNmOjuzCdef2YK+H62++u2ThdxCigfc1EnVy7MaRfsRWTPFo3Aluyg9M0jfw//Ur\n1fL4EA+Jk6ybTvUHXJCrCPOvyCWEoeyT2t6nwGd6mUfu5VbFQ36MFy1soQKBgDdy\nNxxZyhz0MoetKEEohkGhQQCs8i0Nr5j37VUQbw5ssG9iCrB0ec5tO1Ww0G1/PpOb\nkKdZBcxHmVy4ZE8AEkZ26YVbcTiDES3WY13IljsEHFWCbVt51l3dmT4u2sLDov+Q\nuSapcBsGG6DB/e4detzyoQHYvrwF9Q5ejpsQMoSLAoGAfwvu2hgzkCYFWFj/o48w\n9TfGgnt9xdXLqomWryeU/bfZyf10BPIEOAF8tfRHxjl9RQGilxt+xJAEzj/iZ7Xv\n56+ifh9+XOpy+HWaDcQNWhTgWMJbrjB7ybWCmbqduQpDLICZtdXR9O+6vfmqISvp\nQDW5/kZ+4EiqM3pmVCZ038k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "renovision@glossy-fastness-404223.iam.gserviceaccount.com",
+  "client_id": "116171275050916671074",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/renovision%40glossy-fastness-404223.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
